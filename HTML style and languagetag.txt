@@ -1,0 +1,6 @@
+<DOCTYPE html>
+<html lang="en-US"><head><title>HTML Style tag</title></head>
+<body><h1>In this we will learn the use of style tag</h1>
+<p style ="color:red;",>This is red paragraph</p>
+</body>
+<html>
